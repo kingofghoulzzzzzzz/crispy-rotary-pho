@@ -1,0 +1,1 @@
+python finder.py --workers 200 --threads 200 --proxy-file proxies.txt --webhook-url https://discord.com/api/webhooks/1117285595497119854/VeAwkrS0m-1tSQZwMlX9OU9IY5yndgrTie6Kq9UU0YGmWWIW5iKkewsP-uOfkfQa5Zd_
